@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">food recipe</string>
+    <string name="app_name">Recipe App</string>
+    <string name="intro_text"><font color="#000000">Satisfy Your Carving With Our</font>\n<font color="#854811">Fresh Cakes, Donuts\n</font> </string>
+    <string name="intro_signin">Already Have An Account?<font color="#854811">Sign In</font></string>
+
 </resources>
